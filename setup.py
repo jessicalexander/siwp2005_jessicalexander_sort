@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='jessicalexander-sort',
-    version='0.1.6',
+    version='0.1.7',
     description='Package that includes multiple sorting method',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
