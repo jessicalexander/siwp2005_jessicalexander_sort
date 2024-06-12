@@ -6,7 +6,7 @@ setup(
     description='Package that includes multiple sorting method',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/jessicalexander/PBO_HW-1-3/tree/HW%233',  # Update with your repo URL
+    url='https://github.com/jessicalexander/siwp2005_jessicalexander_sort',  # Update with your repo URL
     author='Jessica A',
     author_email='jessica.422023027@civitas.ukrida.ac.id',
     license='MIT',
