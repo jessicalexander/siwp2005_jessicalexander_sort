@@ -1,4 +1,4 @@
-# siwp2005_jessicalexander_sort
+# jessicalexander-sort
 
 This package is an exercise pypi package that cobtains multiple sorting method
 
