@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/p/siwp2005-jessicalexander-sort
+      url: https://pypi.org/p/siwp2005-jessicalexander-sorting
     permissions:
       id-token: write
     steps:
