@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='siwp2005_jessicalexander_sort',
+    name='siwp2005-jessicalexander-sort',
     version='0.1.3',
     description='Package that includes multiple sorting method',
     long_description=open('README.md').read(),
