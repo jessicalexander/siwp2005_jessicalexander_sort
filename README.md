@@ -27,7 +27,7 @@ This package is an exercise pypi package that cobtains multiple sorting method
 You can install the package using pip:
 
 ```sh
-pip install -i https://test.pypi.org/simple/ siwp2005-jessicalexander-sort
+pip install jessicalexander-sort
 ```
 ### Initial setup
 
@@ -44,11 +44,11 @@ print(sort.quick_sort.quick_sort(arr)) #for quick sort
 ```
 ## Contributing
 
-If you find a bug :bug:, please open an [issue](https://github.com/jessicalexander/PBO_HW-1-3/issues).
-If you have an idea for an improvement or new feature :rocket:, please open a [feature request](https://github.com/jessicalexander/PBO_HW-1-3/issues).
+If you find a bug :bug:, please open an [issue](https://github.com/jessicalexander/siwp2005_jessicalexander_sort/issues).
+If you have an idea for an improvement or new feature :rocket:, please open a [feature request](https://github.com/jessicalexander/siwp2005_jessicalexander_sort/issues).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact
-f you have any questions or issues, please open an issue on the [GitHub repository](https://github.com/jessicalexander/PBO_HW-1-3/issues) or contact me at [ssicalexander@gmail.com](ssicalexander@gmail.com).
+f you have any questions or issues, please open an issue on the [GitHub repository](https://github.com/jessicalexander/siwp2005_jessicalexander_sort/issues) or contact me at [ssicalexander@gmail.com](ssicalexander@gmail.com).
